@@ -5,7 +5,7 @@ For scientific reproducibility of our analysis, we provide the IDL code SpexTot0
 
 We also provide:
 - the optical constants of materials used to model the spectra (located in folder "ocs"),
-- the averaged spectra of ordinary H, L and LL chondrites comptuted from spectral data retrieved from the RELAB database; https://sites.brown.edu/relab/ (located in folder "mean_ordinary_chondrites").
+- the averaged spectra of ordinary H, L and LL chondrites comptuted from spectral data retrieved from the RELAB database; https://sites.brown.edu/relab/ (located in folder "OC_spectra").
 
 Asteroid spectra presented in our paper are available at http://smass.mit.edu.
 
