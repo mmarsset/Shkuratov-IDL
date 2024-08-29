@@ -1,5 +1,6 @@
 # Shkuratov-IDL
 IDL script used to model S-type asteroid spectra and measure their ol/(ol+opx) silicate ratio
+author: Pierre Vernazza (pierre.vernazza@lam.fr; Laboratoire d'Astrophysique de Marseille, France)
 
 For scientific reproducibility of our analysis, we provide the IDL code SpexTot045-190Fin_NIR.pro used to model the mineralogy of asteroid spectra presented in the manuscript entitled "The Massalia asteroid family as the origin of ordinary L chondrites" submitted to Nature by Marsset et al. This is an adaptation of the Shkuratov model (Shkuratov et al. 1999, Icarus, vol. 137, no. 2, pp. 235–246) similar to the one used, e.g., by Vernazza et al. (2008) and Binzel et al. (2019).
 
